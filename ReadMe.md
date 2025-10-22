@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently intern as a Frontend Developer at Humic Engineer Telkom University & Building Fullstech Agency <br>👯 I’m looking to collaborate on frontend, fullstack, and UI/UX design projects with social or educational impact.<br>🌱 I’m currently learning Next.Js SSR and SEO Mastering, Design System and Algorithm<br>💬 Ask me about frontend development, project strategy, or combining tech with creativity.<br>⚡ I'm Interest in AI/ML Engineer and Web 3.0 Development
+🔭 I’m currently Intern as a Frontend Developer at Humic Engineer Telkom University & Building Fullstech Agency <br>👯 I’m looking to collaborate on frontend, fullstack, and UI/UX design projects with social or educational impact.<br>🌱 I’m currently learning Next.Js SSR and SEO Mastering, Design System and Algorithm<br>💬 Ask me about frontend development, project strategy, or combining tech with creativity.<br>⚡ I'm Interest in AI/ML Engineer and Web 3.0 Development
 
 
 ## 🌐 Socials:
