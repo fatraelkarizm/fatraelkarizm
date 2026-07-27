@@ -11,11 +11,6 @@ Software Engineer & Co-Founder with **1.5+ year** of hands-on experience shippin
 - 👨‍🏫 **Assistant Lecturer** @ UPI — taught 90+ students in Database Modeling & Software Design
 - 📸 **Founder of GABOOTHZ** — generated **10M+ IDR revenue**, Finalist Edupreneur Academy UPI
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatraelkarizm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatra-al-khawarizmi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fatraelkarizm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alkhawarizmifatra@gmail.com)
-
----
-
 ## 💼 Experience
 
 ### 🛡️ Co-Founder & AI Engineer | PT Trevia Integra Analitika
