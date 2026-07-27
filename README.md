@@ -7,7 +7,7 @@ Software Engineer & Co-Founder with **1.5+ year** of hands-on experience shippin
 - 🏗️ **Built & shipped** 8-module internal management systems, ERP platforms, and real-time detection engines used in production
 - 📉 **Reduced operational workload by ~60%** through automation, centralized data architecture, and CI/CD pipelines
 - 🛡️ **Co-Founded SignalShield** - real-time fraud detection (<200ms) monitoring 3,000+ entities, securing a **$30K+ (IDR 500M+) contract** with enterprise payment gateway clients
-- 🌏 **10+ National & International Achievements** - incl. **Top 6 Global & Top 1 Asia** Dev3pack Hackathon, Top 1 SWE Student UPI, Fully Funded Delegate ASEAN Youth Conference Malaysia 2025
+- 🌏 **10+ National & International Achievements** - incl. **Top 6 Global & Top 1 Asia** Dev3pack Hackathon, Top 1 SWE Student UPI, The Most Outstanding Scholar ASEAN Youth Organization Academy
 - 👨‍🏫 **Assistant Lecturer** @ UPI — taught 90+ students in Database Modeling & Software Design
 - 📸 **Founder of GABOOTHZ** — generated **10M+ IDR revenue**, Finalist Edupreneur Academy UPI
 
