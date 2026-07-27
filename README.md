@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎓 **Computer Science @ Universitas Pendidikan Indonesia**
+🎓 **Software Engineering @ Universitas Pendidikan Indonesia**
 
 Software Engineer & Co-Founder with **1+ year** of hands-on experience shipping production-grade systems, from **enterprise ERP platforms** and **AI-powered fraud detection** to **lead-generation pipelines** and **photobooth SaaS**. I thrive at the intersection of engineering and business, translating complex requirements into scalable architectures that drive real impact.
 
@@ -40,7 +40,7 @@ Software Engineer & Co-Founder with **1+ year** of hands-on experience shipping 
 ---
 
 ### 📸 Founder & Fullstack Developer | GABOOTHZ
-**GABOOTHZ: Gallery Photobooth** - *React.js, Laravel, Midtrans Payment* &nbsp;|&nbsp; 📅 February 2025 – Present
+**GABOOTHZ: Gallery Photobooth** &nbsp;|&nbsp; 📅 February 2025 – Present
 
 - 🤝 Collaborated with **5+ stakeholders** to create a seamless photobooth experience end-to-end
 - 👥 Built GABOOTHZ with a team of **3**, generating revenue stream up to **10+ Million IDR**
