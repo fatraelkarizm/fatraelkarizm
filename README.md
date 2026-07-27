@@ -1,5 +1,15 @@
-# 💫 About Me:
-Software Engineer specializing in fullstack web development with **1.5+ years** of experience building scalable internal systems, achieving **10+ international and national achievements**.
+# 💫 About Me
+
+🎓 **Computer Science @ Universitas Pendidikan Indonesia** — GPA **3.91** | Expected March 2027
+
+Software Engineer & Co-Founder with **1+ year** of hands-on experience shipping production-grade systems — from **enterprise ERP platforms** and **AI-powered fraud detection** to **lead-generation pipelines** and **photobooth SaaS**. I thrive at the intersection of engineering and business, translating complex requirements into scalable architectures that drive real impact.
+
+- 🏗️ **Built & shipped** 8-module internal management systems, ERP platforms, and real-time detection engines used in production
+- 📉 **Reduced operational workload by ~60%** through automation, centralized data architecture, and CI/CD pipelines
+- 🛡️ **Co-Founded SignalShield** — real-time fraud detection (<200ms) monitoring 3,000+ entities, achieving 95% money mule detection rate; selected as **Monash University research contributor**
+- 🌏 **10+ National & International Achievements** — incl. **Top 6 Global & Top 1 Asia** Dev3pack Hackathon, Top 1 Mahasiswa Berprestasi UPI Cibiru, Fully Funded Delegate ASEAN Youth Conference Malaysia 2025
+- 👨‍🏫 **Assistant Lecturer** @ UPI — taught 90+ students in Database Modeling & Software Design
+- 📸 **Founder of GABOOTHZ** — generated **10M+ IDR revenue**, Finalist Edupreneur Academy UPI
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatraelkarizm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatra-al-khawarizmi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fatraelkarizm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alkhawarizmifatra@gmail.com)
