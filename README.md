@@ -1,8 +1,38 @@
 # 💫 About Me:
-🔭 I'm currently Work As a Fullstack Developer <br>👯 I'm looking to collaborate on fullstack, AI Engineer, Business Technology with social or educational impact.<br>🌱 I'm currently learning AI Agentic Ecosystem, Design System and Algorithm<br>💬 Ask me about frontend development, project strategy, or combining tech with creativity.<br>⚡ I'm Interest in AI/ML Engineer and Techpreneurship
+Software Engineer specializing in fullstack web development with **1.5+ years** of experience building scalable internal systems, achieving **10+ international and national achievements**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatraelkarizm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatra-al-khawarizmi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fatraelkarizm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alkhawarizmifatra@gmail.com)
+
+---
+
+## 💼 Experience
+
+### 🛡️ Co-Founder & AI Engineer | PT Trevia Integra Analitika
+**SignalShield** — *Real-time Fraud Detection System* &nbsp;|&nbsp; 📅 February 2026 – Present
+
+- 🚀 Built real-time fraud detection system with **<200ms latency** using Graph + ML + Rule Engine
+- 🔍 Engineered **30+ rules** (4-layer detection), achieving **95% money mule detection rate**
+- 📡 Monitored **3,000+ entities** with real-time alerts & risk scoring
+- 🏛️ Ensured **100% compliance** (OJK/BI) via RBAC & Maker-Checker system
+- 🎓 Selected as **research contributor for Monash University** (Digital Financial Fraud Prevention study), providing insights on fraud detection systems, regulatory challenges, and fintech security
+
+---
+
+### 🤖 Co-Founder | PT Aurora Teknologi Nusantara
+**AURORA** — *All-in-One Personal Assistant App* &nbsp;|&nbsp; 📅 Present
+
+- 🌟 Building an all-in-one personal assistant app integrated with **WhatsApp**
+- 🤖 Leveraging AI to streamline daily productivity, communication, and task management
+
+---
+
+### 📸 Founder & Fullstack Developer | GABOOTHZ
+**GABOOTHZ: Gallery Photobooth** — *React.js, Laravel, Midtrans Payment* &nbsp;|&nbsp; 📅 February 2025 – Present
+
+- 🤝 Collaborated with **5+ stakeholders** to create a seamless photobooth experience end-to-end
+- 👥 Built GABOOTHZ with a team of **3**, generating revenue stream up to **10+ Million IDR**
+- 🏆 Achieved **Finalist — Business Entrepreneur UPI: Edupreneur Academy**
 
 ---
 
@@ -34,11 +64,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com?user=fatraelkarizm&theme=omni&hide_border=false" alt="GitHub Streak" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatraelkarizm&theme=2077&utcOffset=7" alt="Productive Time" />
+    <td colspan="2" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?user=fatraelkarizm&theme=omni&hide_border=false&card_width=860" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
