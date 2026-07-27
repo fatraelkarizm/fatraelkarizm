@@ -41,10 +41,18 @@
       <img width="100%" src="https://streak-stats.demolab.com?user=fatraelkarizm&theme=omni&hide_border=false" alt="GitHub Streak" />
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fatraelkarizm&theme=redical&hide_border=false&area=true&height=195" alt="Contribution Graph" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatraelkarizm&theme=2077" alt="Profile Summary" />
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fatraelkarizm&theme=redical&hide_border=false&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
