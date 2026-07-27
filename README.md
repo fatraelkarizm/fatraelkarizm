@@ -2,7 +2,7 @@
 
 🎓 **Software Engineering @ Universitas Pendidikan Indonesia**
 
-Software Engineer & Co-Founder with **1+ year** of hands-on experience shipping production-grade systems, from **enterprise ERP platforms** and **AI-powered fraud detection** to **lead-generation pipelines** and **photobooth SaaS**. I thrive at the intersection of engineering and business, translating complex requirements into scalable architectures that drive real impact.
+Software Engineer & Co-Founder with **1.5+ year** of hands-on experience shipping production-grade systems, from **enterprise ERP platforms** and **AI-powered fraud detection** to **lead-generation pipelines** and **photobooth SaaS**. I thrive at the intersection of engineering and business, translating complex requirements into scalable architectures that drive real impact.
 
 - 🏗️ **Built & shipped** 8-module internal management systems, ERP platforms, and real-time detection engines used in production
 - 📉 **Reduced operational workload by ~60%** through automation, centralized data architecture, and CI/CD pipelines
