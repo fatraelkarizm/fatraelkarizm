@@ -1,13 +1,13 @@
 # 💫 About Me
 
-🎓 **Computer Science @ Universitas Pendidikan Indonesia** — GPA **3.91** | Expected March 2027
+🎓 **Computer Science @ Universitas Pendidikan Indonesia**
 
-Software Engineer & Co-Founder with **1+ year** of hands-on experience shipping production-grade systems — from **enterprise ERP platforms** and **AI-powered fraud detection** to **lead-generation pipelines** and **photobooth SaaS**. I thrive at the intersection of engineering and business, translating complex requirements into scalable architectures that drive real impact.
+Software Engineer & Co-Founder with **1+ year** of hands-on experience shipping production-grade systems, from **enterprise ERP platforms** and **AI-powered fraud detection** to **lead-generation pipelines** and **photobooth SaaS**. I thrive at the intersection of engineering and business, translating complex requirements into scalable architectures that drive real impact.
 
 - 🏗️ **Built & shipped** 8-module internal management systems, ERP platforms, and real-time detection engines used in production
 - 📉 **Reduced operational workload by ~60%** through automation, centralized data architecture, and CI/CD pipelines
-- 🛡️ **Co-Founded SignalShield** — real-time fraud detection (<200ms) monitoring 3,000+ entities, securing a **$30K+ (IDR 500M+) contract** with enterprise payment gateway clients
-- 🌏 **10+ National & International Achievements** — incl. **Top 6 Global & Top 1 Asia** Dev3pack Hackathon, Top 1 SWE Student UPI, Fully Funded Delegate ASEAN Youth Conference Malaysia 2025
+- 🛡️ **Co-Founded SignalShield** - real-time fraud detection (<200ms) monitoring 3,000+ entities, securing a **$30K+ (IDR 500M+) contract** with enterprise payment gateway clients
+- 🌏 **10+ National & International Achievements** - incl. **Top 6 Global & Top 1 Asia** Dev3pack Hackathon, Top 1 SWE Student UPI, Fully Funded Delegate ASEAN Youth Conference Malaysia 2025
 - 👨‍🏫 **Assistant Lecturer** @ UPI — taught 90+ students in Database Modeling & Software Design
 - 📸 **Founder of GABOOTHZ** — generated **10M+ IDR revenue**, Finalist Edupreneur Academy UPI
 
@@ -19,7 +19,7 @@ Software Engineer & Co-Founder with **1+ year** of hands-on experience shipping 
 ## 💼 Experience
 
 ### 🛡️ Co-Founder & AI Engineer | PT Trevia Integra Analitika
-**SignalShield** — *Real-time Fraud Detection System* &nbsp;|&nbsp; 📅 April 2026 – Present
+**SignalShield** - *Real-time Fraud Detection System* &nbsp;|&nbsp; 📅 April 2026 – Present
 
 - 💼 Secured a **2-year fraud detection contract valued at $30K+ (IDR 500M+)**, including initial implementation & recurring operational setup
 - 🎤 Acted as **primary Pitching Representative** to enterprise payment gateway clients, converting technical capabilities into long-term **B2B revenue pipelines**
@@ -31,7 +31,7 @@ Software Engineer & Co-Founder with **1+ year** of hands-on experience shipping 
 ---
 
 ### 🤖 Co-Founder | PT Aurora Teknologi Nusantara
-**AURORA** — *AI Personal Assistant* &nbsp;|&nbsp; 📅 June 2026 – Present
+*AI Personal Assistant App* &nbsp;|&nbsp; 📅 June 2026 – Present
 
 - 🌟 Co-founded and building an **AI Personal Assistant** that turns **WhatsApp & Telegram** into a powerful daily productivity tool
 - 💬 Users can chat naturally to manage **tasks (Kanban), calendar, smart reminders, notes, documents, and personal finance**
@@ -40,7 +40,7 @@ Software Engineer & Co-Founder with **1+ year** of hands-on experience shipping 
 ---
 
 ### 📸 Founder & Fullstack Developer | GABOOTHZ
-**GABOOTHZ: Gallery Photobooth** — *React.js, Laravel, Midtrans Payment* &nbsp;|&nbsp; 📅 February 2025 – Present
+**GABOOTHZ: Gallery Photobooth** - *React.js, Laravel, Midtrans Payment* &nbsp;|&nbsp; 📅 February 2025 – Present
 
 - 🤝 Collaborated with **5+ stakeholders** to create a seamless photobooth experience end-to-end
 - 👥 Built GABOOTHZ with a team of **3**, generating revenue stream up to **10+ Million IDR**
