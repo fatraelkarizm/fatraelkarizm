@@ -72,7 +72,7 @@ Software Engineer & Co-Founder with **1.5+ year** of hands-on experience shippin
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?user=fatraelkarizm&theme=omni&hide_border=false" alt="GitHub Streak" />
+      <img width="100%" src="https://github-readme-streak-stats-eight-theta.vercel.app?user=fatraelkarizm&theme=omni&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
