@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎓 **Software Engineering @ Universitas Pendidikan Indonesia**
+🎓 **Computer Science Student @Universiti Sains Malaysia | Software Engineering @Universitas Pendidikan Indonesia**
 
 Software Engineer & Co-Founder with **1.5+ year** of hands-on experience shipping production-grade systems, from **enterprise ERP platforms** and **AI-powered fraud detection** to **lead-generation pipelines** and **photobooth SaaS**. I thrive at the intersection of engineering and business, translating complex requirements into scalable architectures that drive real impact.
 
