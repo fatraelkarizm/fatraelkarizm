@@ -25,10 +25,10 @@ Software Engineer & Co-Founder with **1.5+ year** of hands-on experience shippin
 
 ---
 
-### 🤖 Co-Founder | PT Aurora Teknologi Nusantara
+### 🤖 Co-Founder | PT Aurora Teknologi Nusantara | asista.id
 *AI Personal Assistant App* &nbsp;|&nbsp; 📅 June 2026 – Present
 
-- 🌟 Co-founded and building an **AI Personal Assistant** that turns **WhatsApp & Telegram** into a powerful daily productivity tool
+- 🌟 Co-founded and building an asista.id that turns **WhatsApp & Telegram** into a powerful daily productivity tool
 - 💬 Users can chat naturally to manage **tasks (Kanban), calendar, smart reminders, notes, documents, and personal finance**
 - 🤖 Leveraging AI to bridge the gap between conversational interfaces and structured productivity systems
 
